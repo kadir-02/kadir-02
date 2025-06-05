@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @kadir-02<br>- 👀 I’m interested in FrontEnd Developing<br>- 🌱 I’m currently learning ReactJS<br>
+👋 Hi, I’m @kadir-02<br>- 👀 I’m Software Developer<br>
 
 
 ## 🌐 Socials:
